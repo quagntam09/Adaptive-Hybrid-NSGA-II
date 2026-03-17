@@ -1,1 +1,7 @@
-/NSGA-II.ipynb
+/.venv
+/.json
+/settings.json
+/.vscode
+/.ipynb_checkpoints
+/__pycache__
+*.pyc
